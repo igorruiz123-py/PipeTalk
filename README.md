@@ -112,6 +112,6 @@
 
 <p>
     <i>
-        Made with 💙 by Igor Ruiz, Cybersecurity Student from Federal University of Itajuba.
+        Made with 💙 by Igor Ruiz, Cyber Security Student from Federal University of Itajuba.
     </i>
 </p>
