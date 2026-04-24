@@ -3,6 +3,29 @@
 </h1>
 
 <h2 align="center">
+    <i>
+        <strong>Dependencies and Prerequisites:</strong>
+    </i>
+</h2>
+
+<ul>
+    <li>
+        Operating System: <strong>Linux (Tested on Ubuntu 22.04.5 LTS x86_64)</strong>
+    </li>
+    <p>
+        <strong>
+            IMPORTANT: Other Linux distros may as well work
+        </strong>
+    </p>
+    <li>
+        Makefile: <strong>GNU Make 4.3</strong>
+    </li>
+    <li>
+    Compiler: <strong>gcc 11.4.0</strong>
+    </li>
+</ul>
+
+<h2 align="center">
    <i>
      <strong>What is it?</strong>
     </i>
@@ -106,7 +129,7 @@
     </i>
 </h2>
 
-<img src="assets/c.png"></img> <img src="assets/makefile.png"></img> <img src="assets/git.png" length="100" height="100"></img> <img src="assets/ubuntu.png" length="150" height="150"></img> <img src="assets/markdown.png" length="150" height="150"></img> 
+<img src="assets/c.png"></img> <img src="assets/makefile.png"></img> <img src="assets/git.png" length="100" height="100"></img> <img src="assets/ubuntu.png" length="150" height="150"></img>
 
 <hr>
 
