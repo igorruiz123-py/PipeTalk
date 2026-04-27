@@ -88,7 +88,7 @@
 <p align="center">or</p>
 
 <pre>
-    <code class="language-bash">https://github.com/igorruiz123-py/PipeTalk.git</code>
+    <code class="language-bash">git clone https://github.com/igorruiz123-py/PipeTalk.git</code>
 </pre>
 
 <p align="center"><i>Clone the remote repository</i></p>
